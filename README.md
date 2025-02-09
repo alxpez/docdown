@@ -1,6 +1,6 @@
 # DocDown
 
-DocDown is a customizable web scraper designed to extract documentation content from any webpage. It scrapes HTML content, processes related links, and generates clean Markdown output. This project is aimed at personal use and quick documentation generation. 
+DocDown is a customizable web scraper designed to extract documentation content from any webpage. It scrapes HTML content, processes related links, and generates clean Markdown output (intended for adding it as LLMs context). This project is aimed at personal use. 
 
 There are a bunch of scrapers out there, this is just a dirty solution that covers my personal use-cases.
 I look forward to include more customization for choosing models (for example using smaller local models), but for now it's practically free for personal use given Gemini API's great rate limits.
