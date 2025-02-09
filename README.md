@@ -22,8 +22,8 @@ I look forward to include more customization for choosing models (for example us
 
 1. **Clone the Repository & Set Up Environment**
    ```bash
-   git clone https://github.com/yourusername/DocDown.git
-   cd DocDown
+   git clone https://github.com/alxpez/docdown.git
+   cd docdown
    ```
 
 2. **Configure Environment Variables**
