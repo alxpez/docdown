@@ -51,7 +51,7 @@ def main():
 
     final_output = "\n".join(output_markdown_content)
 
-    output_dir = "docs"
+    output_dir = "output"
     import os
     os.makedirs(output_dir, exist_ok=True)
 
