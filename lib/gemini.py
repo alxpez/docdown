@@ -4,10 +4,10 @@ import instructor
 import google.generativeai as genai
 from typing import Optional
 from urllib.parse import urljoin
-from models import ContentAnalysisResponse, RelatedLink
-from prompts import ANALYZE_CONTENT_PROMPT, SUMMARIZE_CONTENT_PROMPT, SUGGEST_FILENAME_PROMPT
 from google.generativeai.types import HarmCategory, HarmBlockThreshold
 from dotenv import load_dotenv
+from lib.models import ContentAnalysisResponse, RelatedLink
+from lib.prompts import ANALYZE_CONTENT_PROMPT, SUMMARIZE_CONTENT_PROMPT, SUGGEST_FILENAME_PROMPT
 
 load_dotenv()
 
