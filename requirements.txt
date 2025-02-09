@@ -1,0 +1,6 @@
+curl-cffi
+beautifulsoup4
+google-generativeai
+python-dotenv
+pydantic
+instructor
